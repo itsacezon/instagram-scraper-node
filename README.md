@@ -1,11 +1,12 @@
 Instagram Scraper  (Node.js)
 ============================
 
-Scrapes an instagram user's photos and videos. Use responsibly.
+This fork handles the `Unhandled Exception` error on the original fork caused by carousel media.
 
 Usage
 -----
 ```
+$ npm install
 $ node index.js <username>
 ```
 
